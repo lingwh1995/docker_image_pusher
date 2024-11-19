@@ -2,5 +2,6 @@
 --platform=linux/arm64 xiaoyaliu/alist
 
 #镜像列表
+mysql:8.0.28
 linux-command:latest
 wcjiang/reference:latest
