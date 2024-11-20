@@ -2,5 +2,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #镜像列表
-linux-command:latest
+wcjiang/linux-command:latest
 wcjiang/reference:latest
