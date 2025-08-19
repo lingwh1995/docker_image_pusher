@@ -4,3 +4,4 @@
 #镜像列表
 wcjiang/linux-command:latest
 wcjiang/reference:latest
+emqx/emqx:latest
