@@ -5,5 +5,5 @@
 wcjiang/linux-command:latest
 wcjiang/reference:latest
 emqx/emqx:latest
-openwebui/open-webui:main
-openwebui/open-webui:cuda
+ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:cuda
