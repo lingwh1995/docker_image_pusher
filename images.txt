@@ -5,6 +5,5 @@
 wcjiang/linux-command:latest
 wcjiang/reference:latest
 emqx/emqx:latest
-openjdk:21-jre-alpine
 openwebui/open-webui:main
 openwebui/open-webui:cuda
