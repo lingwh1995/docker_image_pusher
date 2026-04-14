@@ -7,4 +7,3 @@ wcjiang/reference:latest
 emqx/emqx:latest
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:cuda
-ai/gemma4:E4B
