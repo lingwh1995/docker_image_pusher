@@ -2,7 +2,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 # 镜像列表
-mysql:8.0.44
+mysql:latest
 wcjiang/linux-command:latest
 wcjiang/reference:latest
 emqx/emqx:latest
