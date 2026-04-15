@@ -1,0 +1,11 @@
+# 支持指定架构
+#--platform=linux/arm64 xiaoyaliu/alist
+
+# 镜像列表
+mysql:8.0.44
+wcjiang/linux-command:latest
+wcjiang/reference:latest
+emqx/emqx:latest
+ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:cuda
+vllm/vllm-openai:latest
