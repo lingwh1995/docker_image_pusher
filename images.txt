@@ -13,5 +13,5 @@ mcr.microsoft.com/mssql/server:2022-latest
 portainer/portainer-ce:latest
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:cuda
-vllm-openai:cu130-nightly
+vllm/vllm-openai:cu130-nightly
 vllm/vllm-openai-cpu:v0.18.1-x86_64
