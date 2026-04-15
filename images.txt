@@ -2,9 +2,16 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #镜像列表
+mysql:8.0.44
+redis:7.4.1
+tomcat:9.0.1
+nginx:1.30-alpine
+emqx/emqx:5.8.5
 wcjiang/linux-command:latest
 wcjiang/reference:latest
-emqx/emqx:latest
+mcr.microsoft.com/mssql/server:2022-latest
+portainer/portainer-ce:latest
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:cuda
-vllm/vllm-openai:latest
+vllm-openai:cu130-nightly
+vllm/vllm-openai-cpu:v0.18.1-x86_64
