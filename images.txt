@@ -15,7 +15,7 @@ amir20/dozzle:latest
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:cuda
 vllm/vllm-openai:cu130-nightly
-vllm/vllm-openai-cpu:v0.18.1-x86_64
+vllm/vllm-openai-cpu:latest
 # 完整版，含 llama-cli、llama-server、模型转换 / 量化工具
 ghcr.io/ggml-org/llama.cpp:full
 # 轻量版，仅核心运行时（cli/server）
