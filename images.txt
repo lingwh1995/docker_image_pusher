@@ -15,3 +15,5 @@ ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:cuda
 vllm/vllm-openai:cu130-nightly
 vllm/vllm-openai-cpu:v0.18.1-x86_64
+lazyteam/lazydocker
+ghcr.io/ggml-org/llama.cpp:server
